@@ -1,6 +1,3 @@
-# FDB-Furritas
-Trabajo de universidad donde se hara una base de datos o tratar y que funcione
+# Informacion_De_Ventas
 
-Readme de mi trabajo iniciade deocm crar esto que acavo de hacer
-
-un reporductor de musica que pedas agrefar yquitar canciones y las funciones basicasd  eun reporductor
+Se tiene el historial de ventas en varias plataformas, en donde se desea llevar el control/reigstro ordenado de cada lugar con los datos que porporciona la plataforma, numero de orden, quien lo compro, cuando lo compro, correo electronico, etc.
